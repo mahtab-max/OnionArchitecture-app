@@ -1,0 +1,6 @@
+@OA.Web_HostAddress = http://localhost:5239
+
+GET {{OA.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

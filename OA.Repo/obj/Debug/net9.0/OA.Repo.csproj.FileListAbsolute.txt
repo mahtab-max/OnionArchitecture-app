@@ -1,0 +1,17 @@
+C:\OnionArchitecture\OA.Repo\bin\Debug\net9.0\OA.Repo.deps.json
+C:\OnionArchitecture\OA.Repo\bin\Debug\net9.0\OA.Repo.dll
+C:\OnionArchitecture\OA.Repo\bin\Debug\net9.0\OA.Repo.pdb
+C:\OnionArchitecture\OA.Repo\bin\Debug\net9.0\OA.Data.dll
+C:\OnionArchitecture\OA.Repo\bin\Debug\net9.0\OA.Data.pdb
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\OA.Repo.csproj.AssemblyReference.cache
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\OA.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\OA.Repo.AssemblyInfoInputs.cache
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\OA.Repo.AssemblyInfo.cs
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\OA.Repo.csproj.CoreCompileInputs.cache
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\OA.Repo.csproj.Up2Date
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\OA.Repo.dll
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\refint\OA.Repo.dll
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\OA.Repo.pdb
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\ref\OA.Repo.dll
+C:\OnionArchitecture\OA.Repo\bin\Debug\net9.0\OA.Repo.runtimeconfig.json
+C:\OnionArchitecture\OA.Repo\obj\Debug\net9.0\OA.Repo.genruntimeconfig.cache

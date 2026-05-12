@@ -1,0 +1,14 @@
+C:\OnionArchitecture\OA.Data\bin\Debug\net9.0\OA.Data.deps.json
+C:\OnionArchitecture\OA.Data\bin\Debug\net9.0\OA.Data.runtimeconfig.json
+C:\OnionArchitecture\OA.Data\bin\Debug\net9.0\OA.Data.dll
+C:\OnionArchitecture\OA.Data\bin\Debug\net9.0\OA.Data.pdb
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\OA.Data.csproj.AssemblyReference.cache
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\OA.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\OA.Data.AssemblyInfoInputs.cache
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\OA.Data.AssemblyInfo.cs
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\OA.Data.csproj.CoreCompileInputs.cache
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\OA.Data.dll
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\refint\OA.Data.dll
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\OA.Data.pdb
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\OA.Data.genruntimeconfig.cache
+C:\OnionArchitecture\OA.Data\obj\Debug\net9.0\ref\OA.Data.dll
